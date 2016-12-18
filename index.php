@@ -18,7 +18,7 @@
 	
 	echo "<strong>";
 		if ($days>0) 
-			echo $days.' დღე';
+			echo $days.' დღე,';
 		if ($h1>0) 
 			echo ' '.$hour.' საათი';
 		if ($m1>0) 
